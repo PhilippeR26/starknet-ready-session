@@ -24,7 +24,7 @@ export default function LowerBanner() {
       <Link color="blue.700" href='https://starknetjs.com' > Starknet.js v9.3.0<SquareArrowOutUpRight margin-left="2px" /></Link>
       ,
       {" "} and {" "}
-      <Link color="blue.700" href='https://github.com/myBraavos/session-keys' > Ready session v9.0.0<SquareArrowOutUpRight margin-left="2px" /></Link>
+      <Link color="blue.700" href='https://github.com/argentlabs/x-sessions' > Ready session v9.0.0<SquareArrowOutUpRight margin-left="2px" /></Link>
       . {" "}
       <Link color="blue.700" href='https://github.com/PhilippeR26/starknet-ready-session' > Source code<SquareArrowOutUpRight margin-left="2px" /></Link>
       .
