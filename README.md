@@ -26,7 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## How it works?
 > [!IMPORTANT] 
-> - The Ready sessions are working in Starknet Sepolia Testnet, but the account needs to be whitelisted by Ready team to work in Starknet Mainnet.
+> - The Ready sessions are available in both Starknet Sepolia Testnet and Mainnet, but the DAPP needs to be whitelisted by the Ready team. Contact them and provides the contracts addresses and the function names that will be used by your DAPP sessions.
 > - Only smart-accounts can handle sessions. Do not use any standard Ready account. 
 
 ### Non gas sponsored session  
