@@ -1,4 +1,5 @@
 # Starknet-Ready-session
+![](./Images/ReadySession.png)
 
 > [!IMPORTANT]
 > Stars are appreciated!
